@@ -1,0 +1,20 @@
+@relation tdb
+
+@attribute product_A 	{T}
+@attribute product_B 	{T}
+@attribute product_C 	{T}
+@attribute product_D 	{T}
+@attribute product_E 	{T}
+
+@data
+
+T,T,?,T,T
+?,T,T,T,?
+T,T,?,T,T
+T,?,T,T,T
+?,T,T,T,T
+?,T,?,T,T
+?,?,T,T,?
+T,T,T,?,?
+T,?,?,T,?
+?,T,?,T,?
